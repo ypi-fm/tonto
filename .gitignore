@@ -1,3 +1,10 @@
+# Project-Specific Files
+tonto
+tontocore
+
+# Mac OS X Finder
+.DS_Store
+
 # Prerequisites
 *.d
 
